@@ -1,1 +1,1 @@
-console.log("se realizaron cambios en el archivo logica");
+console.log("esta es mi primera línea de código en javascript")
